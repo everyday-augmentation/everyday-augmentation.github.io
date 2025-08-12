@@ -30,17 +30,15 @@ with the world. Computing devices such as smart glasses, earbuds, and wristbands
 ## Scope of the Workshop
 
 ### Perceptual and Physiological Augmentation Techniques
-Through interactive demonstrations and discussions, we will examine and categorize existing techniques for augmenting human senses. Drawing on theories from adjacent fields such as psychology, neuroscience, and medicine, we will explore how interdisciplinary insights can inform the design.
+Through interactive demonstrations and discussions, we will examine and categorize existing techniques for augmenting human senses. Drawing on theories from adjacent fields such as psychology, neuroscience, and medicine, we will explore how interdisciplinary insights can inform new techniques.
 
 ### Everyday Use and Failure
-We will examine the practical and ethical challenges of de-
-ploying perceptual and physiological augmentation in real-world
-settings. Participants will reflect on what makes a device “usable,”
+We will examine the practical and ethical challenges of designing perceptual and physiological augmentation in everyday settings. Participants will reflect on what makes a device “usable,”
 where it fails, and how people interpret (or misinterpret) the enhanced sensory experiences. 
 
 
 ### Evaluation of Perceptual and Physiological Augmentation
-To fully realize the potential for everyday use, evaluation of perceptual and physiological augmentation systems should go beyond controlled in-lab validation. We will discuss additional measures and protocols researchers should consider when evaluating for everyday, long-term uses.
+To fully realize the potential for everyday use, evaluation of perceptual and physiological augmentation systems should go beyond controlled in-lab validation. We will discuss additional measures and protocols future work should consider when evaluating for everyday, long-term uses.
 
 
  <br/>
