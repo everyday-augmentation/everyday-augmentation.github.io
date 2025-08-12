@@ -10,11 +10,12 @@ layout: home
 
 # Everyday Perceptual and Physiological Augmentation
 
-![Alt text](/img/UIST-workshop-teaser.png)
+![Alt text](/img/UIST-workshop-teaser.jpg)
 
-Computing devices such as smart glasses, earbuds, and wristbands are increasingly integrated with human senses, enabling dynamic mediation, modification, and augmentation of perception and physiological processes through multisensory stimulation. Beyond assistive technologies for sensory impairments, these tools are now used in everyday life for applications ranging from immersive entertainment to well-being interventions. While the UIST community has introduced many proof-of-concept prototypes in this space, gaps remain in understanding how to design, study, and contextualize these technologies for long-term, real-world use. This workshop will explore barriers to moving from prototypes to deployed systems, featuring interactive demos, discussions and keynote talks.
+Human senses are fundamental to how we interpret and interact
+with the world. Computing devices such as smart glasses, earbuds, and wristbands are increasingly coupled with human senses, enabling dynamic mediation, modification, and augmentation of perception and physiological processes through multisensory stimulation. Beyond assistive technologies for sensory impairments, these interfaces are starting to be used in everyday contexts for applications ranging from immersive entertainment to well-being interventions. While the UIST community has introduced many proof-of-concept prototypes in this space, gaps remain in understanding how to design, study, and contextualize these technologies for long-term, real-world use. This workshop will explore barriers to moving from prototypes to deployed systems, featuring interactive demos, discussions, and keynote talks.
 
-**This an in-person workshop at UIST 2025 in Busan, South Korea.**
+**This is an in-person workshop at UIST 2025 in Busan, South Korea.**
 
 **We invite attendees to showcase and share their work in the form of demos, posters, and more!**
 
@@ -22,9 +23,28 @@ Computing devices such as smart glasses, earbuds, and wristbands are increasingl
 - [Aug.11, 2025] Early Bird Registration Deadline is Aug 29! [Register today!](https://web.cvent.com/event/132daf6e-26b8-498a-bd58-dc020d6b9aad/summary)
 - [Aug.1, 2025] Workshop Accepted! [Read our full proposal](UIST2025_Workshop.pdf). 
 
+
+ <br/>
+
+
+## Scope of the Workshop
+
+### Perceptual and Physiological Augmentation Techniques
+Through interactive demonstrations and discussions, we will examine and categorize existing techniques for augmenting human senses. Drawing on theories from adjacent fields such as psychology, neuroscience, and medicine, we will explore how interdisciplinary insights can inform the design.
+
+### Everyday Use and Failure
+We will examine the practical and ethical challenges of de-
+ploying perceptual and physiological augmentation in real-world
+settings. Participants will reflect on what makes a device “usable,”
+where it fails, and how people interpret (or misinterpret) the enhanced sensory experiences. 
+
+
+### Evaluation of Perceptual and Physiological Augmentation
+To fully realize the potential for everyday use, evaluation of perceptual and physiological augmentation systems should go beyond controlled in-lab validation. We will discuss additional measures and protocols researchers should consider when evaluating for everyday, long-term uses.
+
+
+ <br/>
 ## Organizers
-
-
 
 
 <div class="team-grid">

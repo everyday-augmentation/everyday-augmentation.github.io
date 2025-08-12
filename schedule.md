@@ -4,6 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
+
 Below is a tentative schedule for our workshop.
 
 | Time        | Activity       |
