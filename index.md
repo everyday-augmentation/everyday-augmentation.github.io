@@ -15,12 +15,26 @@ layout: home
 Human senses are fundamental to how we interpret and interact
 with the world. Computing devices such as smart glasses, earbuds, and wristbands are increasingly coupled with human senses, enabling dynamic mediation, modification, and augmentation of perception and physiological processes through multisensory stimulation. Beyond assistive technologies for sensory impairments, these interfaces are starting to be used in everyday contexts for applications ranging from immersive entertainment to well-being interventions. While the UIST community has introduced many proof-of-concept prototypes in this space, gaps remain in understanding how to design, study, and contextualize these technologies for long-term, real-world use. This workshop will explore barriers to moving from prototypes to deployed systems, featuring interactive demos, discussions, and keynote talks.
 
-**This is an in-person workshop at UIST 2025 in Busan, South Korea.**
+**This workshop will be held in person on Sunday, September 28, 2025, at UIST 2025 in Busan. We invite attendees to showcase and share their work in the form of demos, posters, and more!**
 
-**We invite attendees to showcase and share their work in the form of demos, posters, and more!**
+<div style="background-color:#f0f0f0; padding:1.2em; border-radius:8px; margin:1.5em 0;">
+  <h2>📢 Registration</h2>
+  <p>
+    Please register for our workshop through the
+    <a href="https://web.cvent.com/event/132daf6e-26b8-498a-bd58-dc020d6b9aad/summary" target="_blank">
+      UIST website</a>.
+  </p>
+  <p>
+    If you have any question, please
+    <a href="mailto:everyday-augmentation-team@googlegroups.com">email us</a>.
+  </p>
+  <p>
+    
+  </p>
+</div>
 
 ## News
-- [Aug.11, 2025] Early Bird Registration Deadline is Aug 29! [Register today!](https://web.cvent.com/event/132daf6e-26b8-498a-bd58-dc020d6b9aad/summary)
+- [Aug.11, 2025] UIST 2025 Early Bird Registration Deadline is Aug 29! [Register today!](https://web.cvent.com/event/132daf6e-26b8-498a-bd58-dc020d6b9aad/summary)
 - [Aug.1, 2025] Workshop Accepted! [Read our full proposal](UIST2025_Workshop.pdf). 
 
 

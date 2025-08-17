@@ -5,3 +5,8 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+
+h2, h3 {
+  color: #942C8E;
+}
